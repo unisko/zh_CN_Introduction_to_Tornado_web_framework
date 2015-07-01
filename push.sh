@@ -1,3 +1,3 @@
-git add c1.md c2.md c3.md push.sh
+git add c1.md c2.md c3.md push.sh images/3-1.png
 git commit -m "更新c3"
 git push
